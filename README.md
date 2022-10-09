@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LLypetskyi
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning HTML5, CSS3,SCSS, JavaScript, TypeScript, Angular 4
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m шnterested in growing as a professional.
+- 🌱 I’m currently learning HTML5, CSS3,SCSS, JavaScript, TypeScript, Angular 4, RUST
+- 💞️ I’m looking аor my first job.
 - 📫 How to reach me - liubomyr.Lypetskyi@gmail.com
 -    or my cell number +380978497686
 
